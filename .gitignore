@@ -1,0 +1,30 @@
+# Node
+node_modules/
+.npm/
+
+# Vite
+.DS_Store
+vite.config.ts.timestamp-* 
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.sw*
+
+# Local env
+.env
+.env.local
+
+# Svelte
+.svelte-kit/
+.svelte-cache/
+
+# Misc
+*.log
